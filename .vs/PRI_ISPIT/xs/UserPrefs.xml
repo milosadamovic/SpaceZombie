@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{69085BD0-291A-3A1D-2484-987B907780E3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FPS Character Script/FPSMouseLook.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FPS Character Script/FPSMouseLook.cs" Line="25" Column="33" />
+      <File FileName="Assets/Scripts/Enemy Scripts/EnemyManager.cs" Line="60" Column="10" />
+      <File FileName="Assets/Scripts/DeathFall.cs" />
+      <File FileName="Assets/Scripts/FPS Character Script/FPSController.cs" />
+      <File FileName="Assets/Scripts/Enemy Scripts/AttackScript.cs" />
+      <File FileName="Assets/Scripts/Enemy Scripts/EnemyController.cs" />
+      <File FileName="Assets/Scripts/Menu Scripts/MenuController.cs" />
+      <File FileName="Assets/Scripts/KillCountManager.cs" />
+      <File FileName="Assets/Scripts/Enemy Scripts/EnemyAudio.cs" />
+      <File FileName="Assets/Scripts/FPS Character Script/HealthScript.cs" />
+      <File FileName="Assets/Scripts/Cursor Controller/CursorController.cs" />
+      <File FileName="Assets/Scripts/FPS Character Script/FPSShootingControls.cs" />
+      <File FileName="Assets/Scripts/FPS Character Script/PlayerStats.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2faafeac-f9ae-4b6b-be59-79e9f30b3b06" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
