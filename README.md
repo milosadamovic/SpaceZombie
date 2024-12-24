@@ -1,9 +1,13 @@
 Description
 
-Space Zombie is a video game built completely from scratch in C# using the Unity engine.
+Constructed a fully functional FPS game in Unity Engine using C#, featuring dynamic gameplay mechanics and engaging enemy interactions.
 
-Functionalities:
+Implemented AI algorithms, enhancing enemy behavior and improving game mechanics.
 
-  - FPS game where the main character shoots as many enemies as possible.
-  - The main character has a health bar.
-  - When the main character enters a certain enemy radius, enemies will attack him.
+Focused on debugging to ensure the game ran smoothly on a variety of devices, utilizing code refactoring techniques for better memory and CPU usage.
+
+Game Functionalities:
+
+  - Main character must attack/shoot as many enemies as possible with option of multiple weapons.
+  - Main character has its current score and health bar as UI element.
+  - When the main character enters a certain enemy radius, enemies will recognize and attack him.
